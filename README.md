@@ -7,3 +7,4 @@
 * https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah?hl=en-US&utm_source=ext_sidebar
 * https://chromewebstore.google.com/detail/auto-scroll/pgogpmjdfnolmgihjemjakelopockkgo?hl=en-US&utm_source=ext_sidebar
 CP : +62812-1679-8692
+* https://apify.com/  (Facebook Posts Scraper) (Facebook Comments Scraper)
